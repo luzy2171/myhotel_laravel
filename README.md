@@ -29,6 +29,15 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+## MY TIM PROJECT 
+
+AHMAD ARBAIM				NIM: 17235095
+NUR IQBAL BAYU SETIAWAN 	NIM: 17235043
+FERDY ANDRYANTO 			NIM: 17235111
+MUHAMMAD ZUHUD		     	NIM: 17235018
+TANZA PUTRA IRMAWAN 		NIM: 17235064
+
+
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
@@ -56,6 +65,7 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
 
 ## Security Vulnerabilities
 
